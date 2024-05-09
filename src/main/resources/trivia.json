@@ -1,0 +1,206 @@
+[
+  {
+    "question": "Example Question: The correct answer is \"Hello\"",
+    "answers": [
+      "Goodbye",
+      "See Ya",
+      "Help",
+      "Hello"
+    ],
+    "correctAnswer": "Goodbye",
+    "incorrectMessage": "yeah",
+    "correctMessage": "Nah"
+  },
+  {
+    "question": "Ethan and a group of friends went to see the Five Nights at Freddie\u0027s movie in theaters. How soon after release did they see it?",
+    "answers": [
+      "First Day",
+      "Within the month",
+      "Within a year",
+      "Within a week"
+    ],
+    "correctAnswer": "First Day",
+    "incorrectMessage": "That\u0027s right, second day, baby",
+    "correctMessage": "haha, not a true fan. The ticklefight was viewed on the second day."
+  },
+  {
+    "question": "Connor\u0027s last name is:",
+    "answers": [
+      "Cappi",
+      "Cappitella",
+      "Capiteli",
+      "Cappitelli"
+    ],
+    "correctAnswer": "Cappi",
+    "incorrectMessage": "The Italian Stalion\u0027s name is indeed spelled that way",
+    "correctMessage": "Nah, try again later."
+  },
+  {
+    "question": "What is the first song that Acid Fog published?",
+    "answers": [
+      "Memory Banks",
+      "The Acid King",
+      "Into The Fog",
+      "Original Jam"
+    ],
+    "correctAnswer": "Memory Banks",
+    "incorrectMessage": "A hood classic",
+    "correctMessage": ":("
+  },
+  {
+    "question": "Acid Fog was formed in a secluded garage, where?",
+    "answers": [
+      "Springfield, Illinois",
+      "Bloomington, Illinois",
+      "Chicago, Illinois",
+      "Mechanicsburg, Illinois"
+    ],
+    "correctAnswer": "Springfield, Illinois",
+    "incorrectMessage": "That\u0027s Right, Acid Fog was formed in a Garage in MechanicsBurg Illinois, there are simply few places to perform there, so they tend to play gigs in the surrounding areas.",
+    "correctMessage": "The correct answer to this question would have been Mechanicsburg, Illinois. It is there that the band members congregated, though they play in other places around Illinois."
+  },
+  {
+    "question": "Which Gig was Acid Fog\u0027s first official gig?",
+    "answers": [
+      "Dumb Records",
+      "Midwest Trade Expo",
+      "The Depths Backyard",
+      "Skank Skates"
+    ],
+    "correctAnswer": "Dumb Records",
+    "incorrectMessage": "Acid Fog (Then temporarily named Gloom)\u0027s first gig was at Skank Skates, February 4th, 2023.",
+    "correctMessage": "Consider looking at the Acid Fog Tapes if you want the answer."
+  },
+  {
+    "question": "How many public Acid Fog shows have not been recorded in their entirety, disregarding technical errors?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Zero"
+    ],
+    "correctAnswer": "One",
+    "incorrectMessage": "That\u0027s Right, as of 10/29/2023, every single acid fog concert/show/performance that was publically available has been recorded in its entirety.",
+    "correctMessage": "Not quite, we\u0027re pretty good about recording their shows."
+  },
+  {
+    "question": "Before playing bass in Acid Fog, clint played which instrument?",
+    "answers": [
+      "Banjo",
+      "Drums",
+      "He always played bass",
+      "Guitar"
+    ],
+    "correctAnswer": "Banjo",
+    "incorrectMessage": "Clint also plays the spoons. He mentioned it in his Activator interview.",
+    "correctMessage": "Clint played guitar before being asked to play bass for Acid Fog."
+  },
+  {
+    "question": "Ethan has four cats, which of them is his absolute undeniable favorite?",
+    "answers": [
+      "Milo/bussy",
+      "Spooky",
+      "Tammy",
+      "Ellie"
+    ],
+    "correctAnswer": "Milo/bussy",
+    "incorrectMessage": "Unfortunately, Ethan adores the goblin cat.",
+    "correctMessage": "Nope. Not that one."
+  },
+  {
+    "question": "How many time had Acid Fog played at Dumb Records in 2023?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswer": "0",
+    "incorrectMessage": "If only it were even more",
+    "correctMessage": "Can I put emojis here? would that work? 🤡 holy shit no way. It actually even shows the emoji in the default linux mint text editor, I really did not expect that."
+  },
+  {
+    "question": "In the Activator Issue 63, featuring Acid Fog, Activator asked \"Who\u0027s on your playlist, what have you been listening to a lot recently?\", who answered \"Black Sabbath, Alice in Chains, Led Zepplin, Nirvana, and The Residents\"?",
+    "answers": [
+      "Clarence Van Jaunt",
+      "Ethan",
+      "Clint",
+      "Connor"
+    ],
+    "correctAnswer": "Clarence Van Jaunt",
+    "incorrectMessage": "I\u0027m surprised Connor didn\u0027t put Van Halen, personally.",
+    "correctMessage": "No."
+  },
+  {
+    "question": "In the Activator Issue 63, featuring Acid Fog, Activator asked \"Who\u0027s on your playlist, what have you been listening to a lot recently?\", who answered \"Camel, Acid Mammoth, The Doors, Buckethead, and Frank Zappa\"?",
+    "answers": [
+      "Clarence Van Jaunt",
+      "Ethan",
+      "Connor",
+      "Clint"
+    ],
+    "correctAnswer": "Clarence Van Jaunt",
+    "incorrectMessage": "Clint\u0027s listening. Right now. To you. Your breathing. It\u0027s ragged. Straighten up.",
+    "correctMessage": "No."
+  },
+  {
+    "question": "In the Activator Issue 63, featuring Acid Fog, Activator asked \"Who\u0027s on your playlist, what have you been listening to a lot recently?\", who answered \"Pentagram, Mephistofeles, Electric Wizard, Oingo Boingo, and B-52s\"?",
+    "answers": [
+      "Clarence Van Jaunt",
+      "Connor",
+      "Clint",
+      "Ethan"
+    ],
+    "correctAnswer": "Clarence Van Jaunt",
+    "incorrectMessage": "Mr. Wright would also probably say \"Mac DeMarco\" now",
+    "correctMessage": "No."
+  },
+  {
+    "question": "In the Activator Issue 63, featuring Acid Fog, Activator asked Acid Fog questions-- What was the name of the individual accredited for asking questions?",
+    "answers": [
+      "Joseph Copley",
+      "Scott Faingold",
+      "Tom Raymond",
+      "Carol Weems"
+    ],
+    "correctAnswer": "Joseph Copley",
+    "incorrectMessage": "I could be wrong, but I think that\u0027s why they put the name at the top...",
+    "correctMessage": "How about you read the issue to find out... oh."
+  },
+  {
+    "question": "Which was released on the Offical Acid Fog YouTube Channel First? (MMDDYYYY)",
+    "answers": [
+      "Buzzbomb 09/02/2023",
+      "George Ranks 06/23/2023",
+      "Dumb Records 10/13/2023",
+      "Centennial Park 09/09/2023"
+    ],
+    "correctAnswer": "Buzzbomb 09/02/2023",
+    "incorrectMessage": "Yes. Perhaps a little out of order :/",
+    "correctMessage": "SIKE YOU THOUGHT"
+  },
+  {
+    "question": "What time did the Acid Fog performance at Main Gate Bar and Grill (11/18/2023) start?",
+    "answers": [
+      "8:00 P.M.",
+      "8:00 A.M.",
+      "8:30 P.M.",
+      "7:15 P.M."
+    ],
+    "correctAnswer": "8:00 P.M.",
+    "incorrectMessage": "Despite the flyers CLEARLY stating 8:00 P.M., they started way early. The 8:00 P.M. Flyer was even in the november 2023 issue of Activator.",
+    "correctMessage": "Did you know you can view the flyer in our \"past events\" page?"
+  },
+  {
+    "question": "Do you have a question? Please send it to gloomofficial87@gmail.com, and we might add it here.",
+    "answers": [
+      "ok",
+      "ok",
+      "ok",
+      "ALRIGHT"
+    ],
+    "correctAnswer": "ok",
+    "incorrectMessage": "HELL YEAH",
+    "correctMessage": "please help I am running out of ideas."
+  }
+]
